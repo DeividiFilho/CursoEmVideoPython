@@ -1,4 +1,3 @@
-from doctest import testsource
 from random import randint
 
 itens = ("PEDRA", "PAPEL", "TESOURA")
